@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Restaurante</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="../plantilla tarea.css" rel="Stylesheet" type="text/css"> 
+    	<header>
+        	<img src="../imagen tarea oficial/banner.jpg" alt="banner" id="banner"> 
+            <section id="meme">
+            <h2>Inicio</h2>
+            </section>
+            <section id="CuerpoDocumento">
+		<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+        </section>
+            <ul id="Menú">
+
+                	<li><a href="Nuestra Historia.html">Nuestra Historia</a></li>
+                    <li><a href="Gastronomia.html">Comentarios</a></li>
+                    <li><a href="Articulo.html">Articulos</a></li>
+                    <li><a href="Eventos Especiales.html">Eventos Especiales</a></li>
+                    <li><a href="Menú.html">Menú</a></li>
+                    </ul>       
+        </header>
+</html>
+  <footer>
+        <h4>Todos los derechos reservados</h4>
+        </footer>
